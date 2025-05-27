@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/my-first/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;th&#34;&gt;hello&#xA;Th&lt;/h2&gt;</description>
     </item>
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Tue, 27 May 2025 00:31:51 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;draft-false---设为-false-表示发布&#34;&gt;title: &amp;ldquo;我的第一篇博客&amp;rdquo;&#xA;date: 2024-05-20&#xA;draft: false  # 设为 false 表示发布&lt;/h2&gt;&#xA;&lt;p&gt;欢迎来到我的 Hugo 博客！&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
