@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>教程 on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 教程 on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇文章</title>
-      <link>http://localhost:1313/posts/%E6%AC%A2%E8%BF%8E/</link>
+      <link>http://localhost:1313/blog/posts/%E6%9C%AA%E5%91%BD%E5%90%8D/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E6%AC%A2%E8%BF%8E/</guid>
+      <guid>http://localhost:1313/blog/posts/%E6%9C%AA%E5%91%BD%E5%90%8D/</guid>
       <description>&lt;h2 id=&#34;这里是正文&#34;&gt;这里是正文&lt;/h2&gt;&#xA;&lt;p&gt;Hello Hugo!&lt;/p&gt;</description>
     </item>
   </channel>
